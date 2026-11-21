@@ -12,9 +12,9 @@
     <application
         android:name=".KairosApplication"
         android:allowBackup="true"
-        android:icon="@android:drawable/sym_def_app_icon"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@android:drawable/sym_def_app_icon"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Kairos"
         android:usesCleartextTraffic="false"
@@ -32,7 +32,7 @@
         <service
             android:name=".accessibility.KairosAccessibilityService"
             android:exported="true"
-            android:label="@string/accessibility_service_label"
+            android:label="@string/app_name"
             android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
             <intent-filter>
                 <action android:name="android.accessibilityservice.AccessibilityService" />

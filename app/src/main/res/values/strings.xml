@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">KAIROS</string>
-    <string name="accessibility_service_label">KAIROS Intelligent Bridge</string>
-    <string name="accessibility_service_description">Allows KAIROS to read on-screen context and run user-approved UI actions reliably.</string>
 </resources>
