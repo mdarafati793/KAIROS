@@ -1,0 +1,5 @@
+-keepattributes *Annotation*
+-keepclassmembers class * { @kotlinx.serialization.Serializable <fields>; }
+-keep class io.modelcontextprotocol.** { *; }
+-dontwarn io.modelcontextprotocol.**
+-dontwarn io.ktor.**

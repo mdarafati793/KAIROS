@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KAIROS</string>
+    <string name="accessibility_desc">KAIROS reads the screen, taps and scrolls for you when you ask. Nothing is sent anywhere unless you give a command that needs the AI.</string>
+</resources>
