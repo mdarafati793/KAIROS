@@ -1,3 +1,0 @@
-Optional wake word: train "Hey KAIROS" at console.picovoice.ai (platform: Android), download the .ppn,
-rename it to hey_kairos.ppn and put it in this folder. Then paste your Picovoice AccessKey in Settings.
-Without it, KAIROS uses a speech-recognizer fallback that listens for "KAIROS"/"কাইরোস".
